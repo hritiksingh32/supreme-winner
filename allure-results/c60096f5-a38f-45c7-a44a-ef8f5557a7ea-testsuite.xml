@@ -1,0 +1,29 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1605254654356' stop='1605254717595'>
+    <name>NestedCourseProgressValidation</name>
+    <title>NestedCourseProgressValidation</title>
+    <test-cases>
+        <test-case start='1605254654357' status='failed' stop='1605254717589'>
+            <name>NestedCourseProgressValidation</name>
+            <title>NestedCourseProgressValidation</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Expected &apos;U&apos; to equal &apos;0%&apos;.' source='f6b96b2b-7ea0-44bd-8087-cd468ae32772-attachment.png' type='image/png' size='110853'/>
+            </attachments>
+            <failure>
+                <message>Expected 'U' to equal '0%'.</message>
+                <stack-trace>Error: Failed expectation
+                    at /home/qualitrix/Documents/protractor-3.0/test/pageObject/tpdPageObj.js:4419:34
+                    at elementArrayFinder_.then (/home/qualitrix/.nvm/versions/node/v10.16.3/lib/node_modules/protractor/built/element.js:804:32)
+                    at ManagedPromise.invokeCallback_ (/home/qualitrix/.nvm/versions/node/v10.16.3/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:1376:14)
+                    at TaskQueue.execute_ (/home/qualitrix/.nvm/versions/node/v10.16.3/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3084:14)
+                    at TaskQueue.executeNext_ (/home/qualitrix/.nvm/versions/node/v10.16.3/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3067:27)
+                    at asyncRun (/home/qualitrix/.nvm/versions/node/v10.16.3/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2927:27)
+                    at /home/qualitrix/.nvm/versions/node/v10.16.3/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:668:7
+                    at process._tickCallback (internal/process/next_tick.js:68:7)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

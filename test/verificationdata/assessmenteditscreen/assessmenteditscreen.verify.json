@@ -1,0 +1,14 @@
+{
+    "AssessmentName":"King Question Assessment",
+    "AssessmentNameEdited":"Queen Answers Edited Assessment Title",
+    "ExpectedComboArray":"Standard,Behavioural,Adaptive,LOFT",
+    "ExpectedPassRate":"80 %",
+    "ModifyPassRate":"50 %",
+    "ExpectedDescription":"The definition of a description is a statement that gives details about someone or something.",
+    "ExpectedEditDescription":"Her last smile to me wasn't a sunset. It was an eclipse, the last eclipse, noon dying away to darkness where there would be no dawn.",
+    "ExpectedInstruction":"The problem has arisen simply because you didn't follow my instructions.",
+    "ExpectedEditSectionName":"Python Assessment",
+    "ExpectedSection_1_Weightage":"40",
+    "ExpectedSection_2_Weightage":"60",
+    "EditedSectionTime":"30 Minutes"
+}

@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1605257514339' stop='1605257540289'>
+    <name>NestedCourseProgressValidation</name>
+    <title>NestedCourseProgressValidation</title>
+    <test-cases>
+        <test-case start='1605257514339' status='passed' stop='1605257540287'>
+            <name>NestedCourseProgressValidation</name>
+            <title>NestedCourseProgressValidation</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

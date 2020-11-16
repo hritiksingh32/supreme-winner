@@ -1,0 +1,18 @@
+{
+    "creator": {
+        "username": "contentc@gmail.com",
+        "password": "password"
+    },
+    "reviewer":{
+        "username": "contentr@gmail.com",
+        "password": "password"
+    },
+    
+    "URL": {
+        "adminUrl": "https://preprod.ntp.net.in/explore",
+        "assesment_url":"https://ams-codetrac-qa-ui.manipaltech.net/#/assessments"
+    }
+   
+}
+
+
